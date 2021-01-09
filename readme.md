@@ -1,2 +1,3 @@
-#Git commands training
+# Git commands training
+
 git in-depth learning
